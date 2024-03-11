@@ -1,0 +1,22 @@
+{
+  "name": "tetes-ol",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdimanaaa/tetes-ol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdimanaaa/tetes-ol/issues"
+  },
+  "homepage": "https://github.com/Ferdimanaaa/tetes-ol#readme",
+  "dependencies": {
+    "bsc-tokenholdings": "^1.2.4"
+  }
+}
